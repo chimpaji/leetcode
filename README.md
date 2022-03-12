@@ -1,2 +1,2 @@
-# leetcode
+# algorithms-exercises
 Created with CodeSandbox
